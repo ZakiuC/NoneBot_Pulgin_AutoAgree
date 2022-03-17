@@ -1,4 +1,2 @@
-# NoneBot_Pulgin_AutoAgree
+#Nonebot Pulgin AutoAgree
 
-转自 BeiYu
-# Github: https://github.com/beiyuouo
